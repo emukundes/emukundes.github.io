@@ -112,7 +112,7 @@ body{
   text-align: center;
 }
 
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 2000px) {
 
 .main_wrap{
   height: 800px;
@@ -483,10 +483,6 @@ body{
   color: #333;
   display: block;
 }
-
-
-
-
 
 /* //////////////// end ////////////////// */
 
