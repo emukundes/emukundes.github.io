@@ -1,0 +1,61 @@
+@media screen and (max-width:1024px){
+
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .about_box{
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+  }
+
+  .about_head{
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .about_head_sub{
+    font-size: 10px;
+    line-height: 5px;
+  }
+
+  .about_txt_sub{
+    font-size: 15px;
+    line-height: 30px;
+  }
+
+
+  .message_wrap{
+    height: 450px;
+    width: 100%;
+    padding-top: 40px;
+  }
+
+  .message_txt{
+    width: 90%;
+    font-size: 15px;
+    line-height: 20px;
+    padding-bottom: 30px;
+  }
+
+
+
+  .end{
+    height: 700px;
+    width: 100%;
+    padding: 100px 0;
+  }
+
+  .end p{
+    font-size: 15px;
+    line-height: 40px;
+    width: 80%;
+  }
+
+  .foot_txt{
+    font-size: 15px;
+  }
+
+}
